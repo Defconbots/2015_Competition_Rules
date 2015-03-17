@@ -71,6 +71,7 @@ A contestant robot with an ID of 01 is targeting target number 3:
 
  * Each wave starts at a specific point on the track
  * Initially all targets are illuminated and "alive"
+ * Initially the train will move at the nominal speed (0.25 m/s) and speed may change if your shots are "called"
  * A "hit" on a target is when a encoded serial laser message is successfully received by the target and verified
  * Once a target is hit (1)illumination on the hit target will transition from blue to red for two(2) seconds and (2) illumination on all other targets will be disabled for two(2) seconds
  * Wave #1 will require one(1) hit on each target
@@ -97,7 +98,7 @@ As an extra challenge competitors can choose to aim at specific targets by addre
    * The train will **stop** for 5 seconds (TBD, how often do we let this happen?)
  2. You call your shot and hit the wrong target:
    * The hit will **deduct** one(1) point from your score
-   * The train will speed up for 5 seconds
+   * The train will **speed up** for 5 seconds
 
 ## How to win
 

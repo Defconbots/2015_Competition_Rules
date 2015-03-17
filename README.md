@@ -37,7 +37,7 @@ Robots that go against the spirit of the contest will be disqualified. Examples 
 
     [NITT]
 
-Where N is the target number (ascii encoded) '1','2','3','4','5' or the character '*'. And TT is an ID assigned to you at the contest. Target number hit IDs will be addressed below in the "Call Your Shots" section.
+Where N is the target number '1','2','3','4','5' or the character '*'. And TT is an ID assigned to you at the contest. Target number hit IDs will be addressed below in the "Call Your Shots" section. All messages are ASCII-encoded.
 
 #### Example Serial Messages
 
@@ -86,11 +86,18 @@ There are two possible ways to send a laser hit message to a target -- with the 
 
 If you decide to use the wild card then you may attempt to hit any target and as soon as the laser hit message registers a hit will be counted, the target will continue to move at normal speed, and the target illumination will cycle normally.
 
-Each wild-card hit will count as **10 points** in your score.
+Each wild-card hit will add **10 points** to your score.
 
 ### Addressed Laser Hit Messages (aka Calling Your Shot)
 
-As an extra challenge competitors can choose to aim at specific targets by addressing them in their target hit message. If a target receives a hit that has a target number that matches its target number the hit will count as **15 points**.
+As an extra challenge competitors can choose to aim at specific targets by addressing them in their target hit message. There are two possible outcomes from calling your shot:
+
+ 1. You call your shot and make the hit:
+   * The hit will add **15 points** to your score
+   * The train will **stop** for 5 seconds (TBD, how often do we let this happen?)
+ 2. You call your shot and hit the wrong target:
+   * The hit will **deduct** one(1) point from your score
+   * The train will speed up for 5 seconds
 
 ## How to win
 

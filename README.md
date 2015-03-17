@@ -77,12 +77,25 @@ There are two possible ways to send a laser hit message to a target -- with the 
 
 If you decide to use the wild card then you may attempt to hit any target and as soon as the laser hit message registers a hit will be counted, the target will continue to move at normal speed, and the target illumination will cycle normally.
 
-Each wild-card hit will count as **ten points** in your score.
+Each wild-card hit will count as **10 points** in your score.
 
 ### Addressed Laser Hit Messages (aka Calling Your Shot)
 
-As an extra challenge competitors can choose to aim at specific targets by addressing them in their target hit message. If a target receives a hit that has a target number that matches
+As an extra challenge competitors can choose to aim at specific targets by addressing them in their target hit message. If a target receives a hit that has a target number that matches its target number the hit will count as **15 points**.
 
 ## How to win
 
- * TBD
+ * Qualification
+   * Contestants are able to qualify on a first-come, first-serve basis
+   * Contestants have 10 minutes to set up their robot. When the contestant is ready, the first wave will start
+   * If a wave is completed, then the next wave will start. Otherwise the contestant has the ability to tweak their robot and retry the wave
+   * After 3 failed waves, the contestants turn is over, and their score will be recorded on a leaderboard
+   * If available, contestants are able to try to qualify again at a later time, but people who haven't qualified have first priority
+ * Finals
+   * After the qualification round is completed, the finals round will start
+   * The top 4 contestants in the qualification round proceed to the finals
+   * In order from fourth place to first place, each contestant will take a turn in order
+   * Contestants have 10 minutes to set up their robot. When the contestant is ready, the first wave will start
+   * If a wave is completed, then the next wave will start
+   * After a failed wave, their turn is over, and their score will be recorded
+ * The final ranking will be determined by the finals times for the people that were in first through fourth, followed by the runners up in order of their qualification score.

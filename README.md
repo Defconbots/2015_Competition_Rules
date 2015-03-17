@@ -73,11 +73,11 @@ A contestant robot with an ID of 01 is targeting target number 3:
  * Initially all targets are illuminated and "alive"
  * Initially the train will move at the nominal speed (0.25 m/s) and speed may change if your shots are "called"
  * A "hit" on a target is when a encoded serial laser message is successfully received by the target and verified
- * Once a target is hit (1)illumination on the hit target will transition from blue to red for two(2) seconds and (2) illumination on all other targets will be disabled for two(2) seconds
+ * Once a target is hit illumination on the hit target will transition from blue to red for two(2) seconds and illumination on all other targets will be disabled for two(2) seconds
  * Wave #1 will require one(1) hit on each target
  * Wave #n(where n is the wave number) will require n hits on each target
  * Once n hits have been completed the target illumination will stop until the end of the wave
- * If there is a problem with the track or targets during a wave the event coordinators reserve the right to halt the wave and restart it (we will try our best to never let this happen!)
+ * If there is a problem with the track or targets during a wave the event coordinators reserve the right to halt the wave and restart it or resume the wave from where the problem occured (we will try our best to never let this happen!)
 
 ## "Call Your Shot"
 

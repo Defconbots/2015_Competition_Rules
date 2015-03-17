@@ -39,6 +39,15 @@ Robots that go against the spirit of the contest will be disqualified. Examples 
 
 Where N is the target number (ascii encoded) '1','2','3','4','5' or the character '*'. And TT is an ID assigned to you at the contest. Target number hit IDs will be addressed below in the "Call Your Shots" section.
 
+#### Example Serial Messages
+
+A contestant robot with an ID of 05 is targeting all targets (wildcard address):
+
+    [*I05]
+
+A contestant robot with an ID of 01 is targeting target number 3:
+
+    [3I01]
 
 # Competition Mechanics
 

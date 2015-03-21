@@ -11,7 +11,7 @@ If you have questions or comments about the rules create an issue in this reposi
  * Build an autonomous robot with an aiming mechanism and a laser
  * Write software for the robot to accurately aim and shoot the laser at moving and illuminated targets
 
-Robots that go against the spirit of the contest will be disqualified. Examples of this would be a robot that randomly sweeps the laser across the Arena or is secretly remote controlled.
+Robots that go against the spirit of the contest will be disqualified. This is a robotics contest not a language contest -- don't try to exploit some loophole in the wording of the rules -- don't be *that* person.
 
 ## Robot
 
@@ -22,11 +22,11 @@ Robots that go against the spirit of the contest will be disqualified. Examples 
 
 ### Shooting Device
 
- * One(1) 50 milliwatt Green laser (I **strongly** suggest you use this particular laser, as it is what the targets were designed to detect -- http://www.civillaser.com/532nm-5mw50mw-ttl-modulation-green-laser-module-dot-16mmx70mm-p-130.html)
+ * One(1) 50 milliwatt Green laser
  * The laser should remain enabled at all times during the wave
  * The laser must be capable of encoding a 4800 baud 8N1 serial signal
  * A laser hit message may be broadcast once every 500 milliseconds
- * No specific laser is required but it is strongly recommended you use the laser used to develop the targets
+ * No specific laser is required but it is strongly recommended you use the laser used to develop the targets: http://www.civillaser.com/532nm-5mw50mw-ttl-modulation-green-laser-module-dot-16mmx70mm-p-130.html
  * If a mirror is used to direct your laser it must not distort your laser beam (cannot be concave or convex)
  * The robot should only emit one laser beam (beam-splitters may be used internally but the robot may not emit multiple beams)
 

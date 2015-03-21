@@ -116,3 +116,9 @@ As an extra challenge competitors can choose to aim at specific targets by addre
    * If a wave is completed, then the next wave will start
    * After a failed wave, their turn is over, and their score will be recorded
  * The final ranking will be determined by the finals times for the people that were in first through fourth, followed by the runners up in order of their qualification score.
+
+## Schedule
+
+Practice and Tune: Thursday 6-August-2015 All day
+Qualifications: Friday 7-August-2015 All day
+Finals: Saturday 8-Aug-2015, 1PM

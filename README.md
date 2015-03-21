@@ -22,11 +22,11 @@ Robots that go against the spirit of the contest will be disqualified. Examples 
 
 ### Shooting Device
 
- * One(1) TBD milliwatt Green laser
+ * One(1) 50 milliwatt Green laser (I **strongly** suggest you use this particular laser, as it is what the targets were designed to detect -- http://www.civillaser.com/532nm-5mw50mw-ttl-modulation-green-laser-module-dot-16mmx70mm-p-130.html)
  * The laser should remain enabled at all times during the wave
  * The laser must be capable of encoding a 4800 baud 8N1 serial signal
  * A laser hit message may be broadcast once every 500 milliseconds
- * No specific laser is required but it is strongly recommended you use the laser used to develop the targets (TBD)
+ * No specific laser is required but it is strongly recommended you use the laser used to develop the targets
  * If a mirror is used to direct your laser it must not distort your laser beam (cannot be concave or convex)
  * The robot should only emit one laser beam (beam-splitters may be used internally but the robot may not emit multiple beams)
 
@@ -53,16 +53,16 @@ A contestant robot with an ID of 01 is targeting target number 3:
 
 ## Arena
  
- * TBD x TBD meters (See conceptual layout http://i.imgur.com/4RzQxc4.png)
+ * 6 x 4.5 meters (See conceptual layout http://i.imgur.com/4RzQxc4.png)
  * Ground will be flat-black in color
 
 ## Targets
 
  * 5 targets
- * 5 to 12.5 cm off the ground
+ * 5 to 12.5cm off the ground
  * 12.5 cm apart
  * Three(3) possible speeds: 0 m/s, 0.25 m/s, and 0.33 m/s
- * TBD shape
+ * Cylindrical shape (25mm diameter, 25mm height)
  * White surface color
  * Illuminated blue (470nm) when active, red (631nm) when stunned, off when dead
  * Targets are numbered 1 to 5, with target #1 being closest to the engine and subsequent targets sequentially numbered
@@ -95,7 +95,7 @@ As an extra challenge competitors can choose to aim at specific targets by addre
 
  1. You call your shot and make the hit:
    * The hit will add **15 points** to your score
-   * The train will **stop** for 5 seconds (TBD, how often do we let this happen?)
+   * The train will **stop** for 5 seconds (The 5 second delay can occur only once every 30 seconds)
  2. You call your shot and hit the wrong target:
    * The hit will **deduct** one(1) point from your score
    * The train will **speed up** for 5 seconds

@@ -23,7 +23,7 @@ Robots that go against the spirit of the contest will be disqualified. This is a
 ### Shooting Device
 
  * One(1) 50 milliwatt Green laser
- * The laser should remain enabled at all times during the wave
+ * The laser should be ON at least 500 ms before a serial message is broadcast (it is recommended you keep the laser enabled at all times during the wave)
  * The laser must be capable of encoding a 4800 baud 8N1 serial signal
  * A laser hit message may be broadcast once every 500 milliseconds
  * No specific laser is required but it is strongly recommended you use the laser used to develop the targets: http://www.civillaser.com/532nm-5mw50mw-ttl-modulation-green-laser-module-dot-16mmx70mm-p-130.html

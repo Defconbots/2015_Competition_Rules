@@ -22,7 +22,7 @@ Robots that go against the spirit of the contest will be disqualified. This is a
 
 ### Shooting Device
 
- * One(1) 50 milliwatt Green laser
+ * One(1) **50 milliwatt** Green laser
  * The laser should be ON at least 500 ms before a serial message is broadcast (it is recommended you keep the laser enabled at all times during the wave)
  * The laser must be capable of encoding a 4800 baud 8N1 serial signal
  * A laser hit message may be broadcast once every 500 milliseconds
@@ -123,4 +123,4 @@ Practice and Tune: Thursday 6-August-2015 All day
 
 Qualifications: Friday 7-August-2015 All day
 
-Finals: Saturday 8-Aug-2015, 1PM
+Finals: Saturday 8-Aug-2015, 1PM-3PM

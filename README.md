@@ -19,6 +19,7 @@ Robots that go against the spirit of the contest will be disqualified. This is a
 
  * Must fit within 1 x 1 x 1 meter cube
  * Must be easy to move and stage for competition quickly (< 5 minutes)
+ * Will sit on a platform ~0.2 meters off the ground (the same as last year)
 
 ### Shooting Device
 

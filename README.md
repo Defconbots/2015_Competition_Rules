@@ -4,8 +4,6 @@ These are the official rules for the Defconbots 2015, tower defense, competition
 
 If you have questions or comments about the rules create an issue in this repository.
 
-**These rules are in development and are subject to change but will be finalized by May-2015.**
-
 ## Spirit of the Contest
 
  * Build an autonomous robot with an aiming mechanism and a laser

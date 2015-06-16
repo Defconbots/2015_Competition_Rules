@@ -96,7 +96,7 @@ As an extra challenge competitors can choose to aim at specific targets by addre
    * The hit will add **150000 points** to your score
    * The train will **stop** for 5 seconds (The 5 second delay can occur only once every 30 seconds)
  2. You call your shot and hit the wrong target:
-   * The hit will **deduct** 10000 point from your score
+   * The hit will **deduct 10000** point from your score
    * The train will **speed up** for 5 seconds
 
 ## How to win

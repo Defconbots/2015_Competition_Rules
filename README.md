@@ -86,17 +86,17 @@ There are two possible ways to send a laser hit message to a target -- with the 
 
 If you decide to use the wild card then you may attempt to hit any target and as soon as the laser hit message registers a hit will be counted, the target will continue to move at normal speed, and the target illumination will cycle normally.
 
-Each wild-card hit will add **10 points** to your score.
+Each wild-card hit will add **100000 points** to your score.
 
 ### Addressed Laser Hit Messages (aka Calling Your Shot)
 
 As an extra challenge competitors can choose to aim at specific targets by addressing them in their target hit message. There are two possible outcomes from calling your shot:
 
  1. You call your shot and make the hit:
-   * The hit will add **15 points** to your score
+   * The hit will add **150000 points** to your score
    * The train will **stop** for 5 seconds (The 5 second delay can occur only once every 30 seconds)
  2. You call your shot and hit the wrong target:
-   * The hit will **deduct** one(1) point from your score
+   * The hit will **deduct** 10000 point from your score
    * The train will **speed up** for 5 seconds
 
 ## How to win

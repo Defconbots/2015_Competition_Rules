@@ -118,8 +118,6 @@ As an extra challenge competitors can choose to aim at specific targets by addre
 
 ## Schedule
 
-Practice and Tune: Thursday 6-August-2015 All day
-
 Qualifications: Friday 7-August-2015 Open-to-5pm
 
 Finals: Saturday 8-Aug-2015, 1PM-3PM
